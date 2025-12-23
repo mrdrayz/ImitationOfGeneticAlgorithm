@@ -22,4 +22,6 @@ f(x) = (x-1.5)^3 + 3
  3. Tailwind CSS
  4. Recharts
 
+# Ссылка на задеплоенный проект
 
+https://imitation-of-genetic-algorithm.vercel.app/
