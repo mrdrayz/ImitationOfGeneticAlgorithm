@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-6 text-center">Генетический Алгоритм — Вариант 3</h1>
+      <h1 className="text-2xl font-bold mb-6 text-center">Генетический Алгоритм</h1>
       <GeneticAlgorithmForm onRun={handleRun} loading={loading} />
       {resultsFloat && resultsInteger && params && (
         <>
